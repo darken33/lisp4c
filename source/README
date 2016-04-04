@@ -1,0 +1,42 @@
+Titre       : Lisp4c
+Version     : 1.1
+Description : Bibliothèque lisp pour le C
+Auteur      : Philippe BOUSQUET
+Copyright   : (c) 2001 - Philippe BOUSQUET
+License     : GENERAL PUBLIC LICENSE
+_________________________________________________________________
+
+PRESENTATION
+============
+      Lisp4c est une bibliothèque pour gérer des listes à la
+      manière du LISP en C.
+      Elle est fournie avec un programme d'exemple: testlisp4c.
+
+      Pour plus d'information se reporter à la note LISP4C.TXT.
+
+INSTALLATION
+============
+      Par défaut l'installation s'effectue dans /usr/local,
+      pour modifier ceci éditer le fichier Makefile.
+
+      Pour installer:
+        $ make
+        $ make install
+
+GARANTIES
+=========
+      ATTENTION: Je ne prend aucune responsabilité sur les dégats
+      encourus lors de l'utilisation de cette bibliothèque.
+
+LICENSE
+=======
+      Cette bibliothèque est sous license GPL, Pour plus
+      d'informations consulter la note COPYING.
+_________________________________________________________________ 
+
+Philippe BOUSQUET
+229 rue Sainte Catherine,
+33000 BORDEAUX
+FRANCE.
+Tel: (+33) 06.61.99.25.84
+E-mail: philippe.bousquet@maaf.fr
